@@ -1,0 +1,4 @@
+El primer paso es añadir un prólogo al xml.
+El segundo paso es añadir un hrfef al prólogo.
+El tercer paso es añadir donde se encuentra el xslt que queremos comprobar.
+El cuarto paso es dar a la opción de open in default browser de Visual Studio Code. 
